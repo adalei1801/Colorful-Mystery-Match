@@ -1,0 +1,16 @@
+#heading {
+    text-align: center;
+}
+#color-row{ 
+    text-align: center;
+}
+
+.color-block {
+    display: inline-block;
+    border: 2px solid black;
+    margin: 2px;
+}
+
+#attempt-display {
+    text-align: end;
+}
